@@ -1,0 +1,11 @@
+# Tested on NYU HPC with Python 3.9, PyTorch 2.8 and CUDA-enabled GPU.
+# Install a CUDA-compatible PyTorch + torchvision separately for your system.
+torch>=2.3
+torchvision>=0.18
+numpy>=1.23
+pandas>=1.5
+Pillow>=9.0
+scikit-learn>=1.2
+matplotlib>=3.6
+jupyterlab>=4.0
+ipykernel>=6.0
